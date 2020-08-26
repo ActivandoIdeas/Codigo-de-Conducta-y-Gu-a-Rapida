@@ -8,9 +8,20 @@
 
 ## Tabla de Contenido<!-- omit in toc -->
 - [Sobre Activando Ideas](#sobre-activando-ideas)
-  - [Consejos útiles para colaborar en GitHub](#consejos-útiles-para-colaborar-en-github)
-  - [Guía de creación de proyectos](#guía-de-creación-de-proyectos)
-    - [Creación](#creación)
+- [Consejos útiles para colaborar](#consejos-útiles-para-colaborar)
+  - [¿Listo para contribuir?](#listo-para-contribuir)
+- [Guía de contribución en GitHub](#guía-de-contribución-en-github)
+  - [Tipos de contribuciones](#tipos-de-contribuciones)
+    - [Reportar Bugs](#reportar-bugs)
+    - [Corregir Bugs](#corregir-bugs)
+    - [Implementa Features](#implementa-features)
+    - [Escribe documentación](#escribe-documentación)
+    - [Envia Feedback](#envia-feedback)
+  - [Para contribuir en cada repositorio](#para-contribuir-en-cada-repositorio)
+    - [Guía para enviar Pull Request](#guía-para-enviar-pull-request)
+    - [Deploying](#deploying)
+- [Guía de creación de proyectos](#guía-de-creación-de-proyectos)
+  - [Creación](#creación)
     - [Atajos en los proyectos](#atajos-en-los-proyectos)
     - [Distribución de columnas](#distribución-de-columnas)
       - [Consideraciones sobre las columnas y el flujo de trabajo](#consideraciones-sobre-las-columnas-y-el-flujo-de-trabajo)
@@ -24,17 +35,121 @@
 
 # Sobre Activando Ideas
 
-Activando Ideas es una comunidad que busca compartir y desarrollar recursos de código abierto en temas de Ciencia de Datos, Estadística, Inteligencia Artificial, Backend, Frontend, Cloud, DevOps con el objetivo de que puedan ser de ayuda al momento de desarrollar proyectos.
+Activando Ideas es una comunidad que busca compartir y desarrollar recursos de código abierto en temas de Ciencia de Datos, Estadística, Inteligencia Artificial, Backend, Frontend, Cloud y DevOps con el objetivo de que puedan ser de ayuda al momento de desarrollar proyectos.
 
-## Consejos útiles para colaborar en GitHub
+# Consejos útiles para colaborar
 
 En activando ideas se realizó un post que se actualiza constantemente con algunos tips para usar GitHub, puedes revisarlo aquí:
 
 https://activandoideas.com/blog/desarrollo/github-la-red-social-de-los-programadores
 
-## Guía de creación de proyectos
+## ¿Listo para contribuir?
 
-### Creación
+* Lee la públicación en Activando Ideas:
+  * https://activandoideas.com/unete
+* Únete a la discusión por discord para contribuir con nuevas ideas
+[![Discord](https://img.shields.io/discord/689806334337482765?label=discord&logo=discord&logoColor=white&style=for-the-badge&color=blue)](https://discord.gg/2bsSMx)
+
+# Guía de contribución en GitHub
+
+¡Las contribuciones son bienvenidas y muy apreciadas! Todo ayuda, y siempre se le dará crédito. Puedes contribuir de muchas formas:
+
+## Tipos de contribuciones
+
+### Reportar Bugs
+
+> ---
+> Reporta el Bug, creando un issue en el repositorio
+>
+> Por favor incluye:
+>
+> * El nombre y la versión de su sistema operativo
+> * Cualquier detalle sobre su configuración local que pueda ser útil para solucionar problemas.
+> * Pasos detallados para reproducir el error..
+> 
+> ---
+
+### Corregir Bugs
+
+> ---
+> Busca los issues con bugs. Todo lo etiquetado con "bug" y "help wanted" está abierto a quien quiera implementarlo.
+> 
+> ---
+
+### Implementa Features
+
+> ---
+> Busca los issues para features. Todo lo tagueado con "enhancement" y "help wanted" está abierto a quien quiera implementarlo.
+>
+> ---
+
+### Escribe documentación
+
+> ---
+> Cada proyecto siempre puede requerir más documentación, ya sea como parte de los documentos oficiales, en cadenas de documentos o incluso en la web en publicaciones de blogs, artículos, etc.
+> 
+> ---
+
+### Envia Feedback
+
+> ---
+> La mejor forma de enviar feedback es creando un nuevo issue.
+> Sí estás proponiendo un nuevo feature:
+> 
+> * Explique en detalle cómo funcionaría.
+> * Mantenga el alcance lo más delimitado posible para que sea más fácil de implementar.
+> * Recuerde que este es un proyecto impulsado por voluntarios y que las contribuciones son bienvenidas :)
+> ---
+
+## Para contribuir en cada repositorio
+
+1. Realiza un Fork del repositorio.
+2. Clonalo localmente
+3. Realiza los pasos de instalación descritos en el repositorio
+4. Crea un nuevo branch para desarrollar localmente:
+
+```bash
+  git checkout -b name-of-your-bugfix-or-feature
+```
+
+Ahora puedes hacer tus cambios localmente
+
+5. Cuando haya terminado de realizar cambios, verifique que sus cambios pasen las pruebas de los linters y tests
+
+6. Realiza un commit de tus cambios y haz un push push de tu rama a GitHub
+
+```shell
+    git add .
+    git commit -m "Your detailed description of your changes."
+    git push origin name-of-your-bugfix-or-feature
+```
+
+7. Envia tu pull request
+
+### Guía para enviar Pull Request
+
+Antes de enviar una solicitud de extracción, verifique que cumpla con estas pautas:
+
+1. La solicitud de extracción debe incluir tests.
+2. Si la solicitud de extracción agrega funcionalidad, los documentos deben actualizarse. Coloque su nueva funcionalidad en una función con una cadena de documentos y agregue la función al README.md
+3. Los pull request deberían funcionar para las últimas versiones del lenguaje del repositorio
+4. Asegurese de que las pruebas de CI se ejecuten correctamente
+
+### Deploying
+
+Un recordatorio para los mantenedores sobre cómo implementar.
+Asegúrese de que todos sus cambios estén confirmados (incluida una entrada en CHANGELOG.md)
+
+Describa la versión: major / minor / patch
+
+```
+git push
+git push --tags
+```
+
+# Guía de creación de proyectos
+
+## Creación
 * Crear un repositorio o repositorios para el proyecto
 * Crear un proyecto a nivel de organización 
 * Poner un nombre claro y especifico, elige el template con automatizaciones
