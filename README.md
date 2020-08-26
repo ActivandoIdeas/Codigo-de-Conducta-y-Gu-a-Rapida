@@ -8,7 +8,7 @@
 
 ## Tabla de Contenido<!-- omit in toc -->
 - [Sobre Activando Ideas](#sobre-activando-ideas)
-  - [Guía de colaboración en repositorios](#guía-de-colaboración-en-repositorios)
+  - [Consejos útiles para colaborar en GitHub](#consejos-útiles-para-colaborar-en-github)
   - [Guía de creación de proyectos](#guía-de-creación-de-proyectos)
     - [Creación](#creación)
     - [Atajos en los proyectos](#atajos-en-los-proyectos)
@@ -26,27 +26,11 @@
 
 Activando Ideas es una comunidad que busca compartir y desarrollar recursos de código abierto en temas de Ciencia de Datos, Estadística, Inteligencia Artificial, Backend, Frontend, Cloud, DevOps con el objetivo de que puedan ser de ayuda al momento de desarrollar proyectos.
 
-<div align="center">
-  <img src="img/1.jpg">
-</div>
+## Consejos útiles para colaborar en GitHub
 
-## Guía de colaboración en repositorios
+En activando ideas se realizó un post que se actualiza constantemente con algunos tips para usar GitHub, puedes revisarlo aquí:
 
-Al trabajar en un repositorio con otras personas de la organización, realiza lo siguiente:
-
-* Pull
-* Create branch
-* Commit
-* Pull again 
-* Resolve conflicts
-* Push
-* Pull request
-
-Evitemos historias de terror en la organización xD
-
-<div align="center">
-  <img src="img/2.jpg">
-</div>
+https://activandoideas.com/blog/desarrollo/github-la-red-social-de-los-programadores
 
 ## Guía de creación de proyectos
 
