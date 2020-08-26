@@ -4,12 +4,16 @@
   <p align="center">
     Para poder contribuir deberás cumplir con el siguiente acuerdo
   </p>
+  <div align="center">
+      <a href="https://discord.gg/8rbZAEA" target="__blank"><img src="https://img.shields.io/discord/743639261827432468?label=discord&logo=discord&logoColor=white&style=for-the-badge&color=blue" 
+      alt="Discord"/></a>
+  </div>
 </div>
 
 ## Tabla de Contenido<!-- omit in toc -->
 - [Sobre Activando Ideas](#sobre-activando-ideas)
-- [Consejos útiles para colaborar](#consejos-útiles-para-colaborar)
 - [¿Listo para contribuir?](#listo-para-contribuir)
+- [Consejos útiles para colaborar](#consejos-útiles-para-colaborar)
 - [Guía de contribución en GitHub](#guía-de-contribución-en-github)
   - [Tipos de contribuciones](#tipos-de-contribuciones)
     - [Reportar Bugs](#reportar-bugs)
@@ -40,19 +44,22 @@
 
 Activando Ideas es una comunidad que busca compartir y desarrollar recursos de código abierto en temas de Ciencia de Datos, Estadística, Inteligencia Artificial, Backend, Frontend, Cloud y DevOps con el objetivo de que puedan ser de ayuda al momento de desarrollar proyectos.
 
-# Consejos útiles para colaborar
-
-En activando ideas se realizó un post que se actualiza constantemente con algunos tips para usar GitHub, puedes revisarlo aquí:
-
-https://activandoideas.com/blog/desarrollo/github-la-red-social-de-los-programadores
-
 # ¿Listo para contribuir?
 
 * Lee la públicación en Activando Ideas:
   * https://activandoideas.com/unete
 * Únete a la discusión por discord para contribuir con nuevas ideas
 
-[![Discord](https://img.shields.io/discord/689806334337482765?label=discord&logo=discord&logoColor=white&style=for-the-badge&color=blue)](https://discord.gg/8rbZAEA)
+<div align="center">
+    <a href="https://discord.gg/8rbZAEA" target="__blank"><img src="https://img.shields.io/discord/743639261827432468?label=discord&logo=discord&logoColor=white&style=for-the-badge&color=blue" 
+    alt="Discord"/></a>
+</div>
+
+# Consejos útiles para colaborar
+
+En activando ideas se realizó un post que se actualiza constantemente con algunos tips para usar GitHub, puedes revisarlo aquí:
+
+https://activandoideas.com/blog/desarrollo/github-la-red-social-de-los-programadores
 
 # Guía de contribución en GitHub
 
