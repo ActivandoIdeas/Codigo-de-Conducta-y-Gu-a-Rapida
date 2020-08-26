@@ -24,9 +24,7 @@
 
 # Sobre Activando Ideas
 
-Activando data es una organización con el fin de compartir contenido relacionado a modelos matemáticos, estadísticos y de machine learning para poder aprender y aplicar en el campo de la ciencia de datos
-
-> Desde ejemplos detallados sobre distintos temas, hasta proyectos y templates en comunidad
+Activando Ideas es una comunidad que busca compartir y desarrollar recursos de código abierto en temas de Ciencia de Datos, Estadística, Inteligencia Artificial, Backend, Frontend, Cloud, DevOps con el objetivo de que puedan ser de ayuda al momento de desarrollar proyectos.
 
 <div align="center">
   <img src="img/1.jpg">
