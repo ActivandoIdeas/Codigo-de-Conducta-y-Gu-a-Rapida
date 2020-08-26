@@ -9,7 +9,7 @@
 ## Tabla de Contenido<!-- omit in toc -->
 - [Sobre Activando Ideas](#sobre-activando-ideas)
 - [Consejos útiles para colaborar](#consejos-útiles-para-colaborar)
-  - [¿Listo para contribuir?](#listo-para-contribuir)
+- [¿Listo para contribuir?](#listo-para-contribuir)
 - [Guía de contribución en GitHub](#guía-de-contribución-en-github)
   - [Tipos de contribuciones](#tipos-de-contribuciones)
     - [Reportar Bugs](#reportar-bugs)
@@ -46,13 +46,13 @@ En activando ideas se realizó un post que se actualiza constantemente con algun
 
 https://activandoideas.com/blog/desarrollo/github-la-red-social-de-los-programadores
 
-## ¿Listo para contribuir?
+# ¿Listo para contribuir?
 
 * Lee la públicación en Activando Ideas:
   * https://activandoideas.com/unete
 * Únete a la discusión por discord para contribuir con nuevas ideas
 
-[![Discord](https://img.shields.io/discord/689806334337482765?label=discord&logo=discord&logoColor=white&style=for-the-badge&color=blue)](https://discord.gg/2bsSMx)
+[![Discord](https://img.shields.io/discord/689806334337482765?label=discord&logo=discord&logoColor=white&style=for-the-badge&color=blue)](https://discord.gg/8rbZAEA)
 
 # Guía de contribución en GitHub
 
