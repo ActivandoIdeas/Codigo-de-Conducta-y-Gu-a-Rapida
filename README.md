@@ -20,6 +20,9 @@
   - [Para contribuir en cada repositorio](#para-contribuir-en-cada-repositorio)
     - [Guía para enviar Pull Request](#guía-para-enviar-pull-request)
     - [Deploying](#deploying)
+- [Convensiones para los repositorios](#convensiones-para-los-repositorios)
+  - [Estándar de escritura de commits](#estándar-de-escritura-de-commits)
+  - [Estándar de manejo de ramas](#estándar-de-manejo-de-ramas)
 - [Guía de creación de proyectos](#guía-de-creación-de-proyectos)
   - [Creación](#creación)
     - [Atajos en los proyectos](#atajos-en-los-proyectos)
@@ -48,6 +51,7 @@ https://activandoideas.com/blog/desarrollo/github-la-red-social-de-los-programad
 * Lee la públicación en Activando Ideas:
   * https://activandoideas.com/unete
 * Únete a la discusión por discord para contribuir con nuevas ideas
+
 [![Discord](https://img.shields.io/discord/689806334337482765?label=discord&logo=discord&logoColor=white&style=for-the-badge&color=blue)](https://discord.gg/2bsSMx)
 
 # Guía de contribución en GitHub
@@ -146,6 +150,20 @@ Describa la versión: major / minor / patch
 git push
 git push --tags
 ```
+
+# Convensiones para los repositorios
+
+## Estándar de escritura de commits
+
+Conventional Commits
+
+https://www.conventionalcommits.org/en/v1.0.0
+
+## Estándar de manejo de ramas
+
+GitFlow
+
+https://danielkummer.github.io/git-flow-cheatsheet/
 
 # Guía de creación de proyectos
 
